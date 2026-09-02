@@ -1,0 +1,8 @@
+# Opacity setting for terminal
+[window]
+  opacity = 0.5 
+#  blur = true
+
+# Font size
+[font]
+  size = 7

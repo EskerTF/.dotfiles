@@ -1,0 +1,20 @@
+[user]
+	name = Esker
+	email = eskerthefluff@gmail.com
+[init]
+	defaultBranch = main
+[advice]
+	defaultBranchName = false
+[alias]
+	st = status -sb
+	sta = status
+  conf = config --global --edit
+  pr = pull --rebase
+  br = branch
+  bra = branch -a
+  ci = commit
+  ciam = commit -a --amend
+  co = checkout
+  aa = add -A
+[core]
+	editor = nvim
