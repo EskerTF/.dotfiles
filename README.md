@@ -25,6 +25,25 @@ Open .bashrc configuration file in text editor
 
 ---
 
+### Lazygit
+
+```
+lgit
+
+```
+Open lazygit
+
+---
+
+### Lazydocker
+
+```
+ldocker
+```
+Open Lazydocker
+
+---
+
 ### Git
 
 ```
