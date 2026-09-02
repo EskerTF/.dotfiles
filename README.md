@@ -7,7 +7,7 @@ List of customized commands
 ```
 la
 ```
-List all (including hidden) as list (ls -al)
+List all with human readable size (including hidden) as list (ls -alh)
 
 ---
 
